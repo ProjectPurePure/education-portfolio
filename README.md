@@ -1,2 +1,1 @@
-# education-portfolio
-
+# teaching-portfolio
